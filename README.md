@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/996afec1-e1a5-4a64-9676-1060f827946f) 
+
 Refer SVM Classifier : https://medium.com/analytics-vidhya/implementing-svm-for-performing-classification-and-finding-accuracy-in-python-using-datasets-wine-e4fef8e804b4
 
 
