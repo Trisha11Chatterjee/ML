@@ -1,4 +1,4 @@
-# ML
+![image](https://github.com/user-attachments/assets/996afec1-e1a5-4a64-9676-1060f827946f)![image](https://github.com/user-attachments/assets/8473b79e-305c-412c-bc99-7ccf4a87508d)# ML
 
 Refer SVM Classifier : https://medium.com/analytics-vidhya/implementing-svm-for-performing-classification-and-finding-accuracy-in-python-using-datasets-wine-e4fef8e804b4
 
@@ -6,3 +6,6 @@ Refer SVM Classifier : https://medium.com/analytics-vidhya/implementing-svm-for-
 
 
 Refer Regression trees (Income Prediction) : https://colab.research.google.com/github/alan-turing-institute/Intro-to-transparent-ML-course/blob/main/content/07-trees-ensembles/regression-trees.ipynb#scrollTo=gDde8h5pro5N
+
+Untitled 7 : Linear regression : 
+
